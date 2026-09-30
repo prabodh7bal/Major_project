@@ -12,7 +12,7 @@
 
 **An Edge-Native, Privacy-Preserving Platform with Local LLM (Gemma 2B), OpenAI Whisper Speech Recognition, and Retrieval-Augmented Generation (RAG)**
 
-GitHub: https://github.com/prabodh7bal/Major_project_AgenticAi
+GitHub: https://github.com/prabodh7bal/Major_project
 
 ---
 
